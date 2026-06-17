@@ -16,7 +16,7 @@ sidebar:
   email: yedhunandanr2@gmail.com
   phone: 9108941606
   linkedin: yedhunandan
-  github: yedhuu
+  github: yedhunandanr
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -61,6 +61,7 @@ education:
 experiences:
  
 certifications:
+Coursera
   
 projects:
   
@@ -70,6 +71,10 @@ recommendations:
  
 skills:
   title: Skills &amp; Proficiency
+  Python and R
+  prokka, Card-rgi, snippy snp
+  Linux and shell scripting
+  Scientific writing 
 
   toolset:
   - name: Python & R
