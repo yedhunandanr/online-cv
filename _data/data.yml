@@ -63,9 +63,19 @@ experiences:
 certifications:
   
 projects:
-- RNA-seq Analysis of Saccharomyces cerevisiae
+Title: Projects
+  assignments:
+  - title: RNA-seq Analysis of Saccharomyces cerevisiae
+    link: "#https://github.com/yedhunandanr/rna-sequence-yeast-analysis"
 
-- Implementation of Machine learning models for Predicting Imipenem Resistance in Acintobacter baumanii
+  - title: Implementation of Machine learning models for Predicting Imipenem Resistance in Acintobacter baumanii
+    link: "#"
+    tagline: "Feature disection study of 5 Ml models for predicting Imipenem Resistance in Acintobacter baumanii"
+
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
   
 publications:
 
