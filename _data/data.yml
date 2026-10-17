@@ -16,7 +16,7 @@ sidebar:
   email: yedhunandanr2@gmail.com
   phone: 9108941606
   linkedin: yedhunandan
-  github: yedhunandanr
+  github: https://github.com/yedhunandanr
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
@@ -64,6 +64,8 @@ certifications:
 Coursera
   
 projects:
+RNA-seq Analysis of Saccharomyces cerevisiae
+Implementation of Machine learning models for Predicting Imipenem Resistance in Acintobacter baumanii
   
 publications:
 
@@ -74,7 +76,7 @@ skills:
   Python and R
   prokka, Card-rgi, snippy snp
   Linux and shell scripting
-  Scientific writing 
+  Cloud computing 
 
   toolset:
   - name: Python & R
