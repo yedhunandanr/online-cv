@@ -63,8 +63,7 @@ experiences:
 certifications:
   
 projects:
-Title: Projects
-  assignments:
+  title: Project
   - title: RNA-seq Analysis of Saccharomyces cerevisiae
     link: "#https://github.com/yedhunandanr/rna-sequence-yeast-analysis"
 
