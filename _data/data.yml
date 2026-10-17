@@ -73,26 +73,16 @@ recommendations:
  
 skills:
   title: Skills &amp; Proficiency
-  Python and R
-  prokka, Card-rgi, snippy snp
-  Linux and shell scripting
-  Cloud computing 
-
   toolset:
-  - name: Python & R
-    level: 98%
+    - name: Python & R
 
-  - name: Linux & Shell scripting
-    level: 98%
+    - name: Linux & Shell Scripting
 
-  - name: Ai/ml
-    level: 45%
+    - name: Prokka, CARD-RGI & Snippy
 
-  - name: Data annotation
-    level: 95%
+    - name: AI/ML
 
-  - name: Sketch & Photoshop
-    level: 60%
+    - name: Cloud Computing
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">yedhu</a>
