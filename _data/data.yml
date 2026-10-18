@@ -65,8 +65,6 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
   - title: RNA-seq Analysis of Saccharomyces cerevisiae
     link: "#https://github.com/yedhunandanr/rna-sequence-yeast-analysis"
 
